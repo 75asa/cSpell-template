@@ -1,0 +1,14 @@
+{
+  "name": "cSpell-template",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "ssh://git@github.com/75asa/cSpell-template.git",
+  "author": "75asa <75asa.me@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "spell-check": "cspell lint './**/*' -c ./.cspell/cspell.cjs --show-suggestions"
+  },
+  "dependencies": {
+    "cspell": "^6.17.0"
+  }
+}
