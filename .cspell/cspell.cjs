@@ -15,11 +15,6 @@ module.exports = {
     ],
     // cSpell 除外設定
     "ignorePaths": [
-        "**/node_modules/**",
-        "**/lib/**",
-        "**/dist/**",
-        "**/yarn-*.log",
-        "**/.git/**",
         "./words.txt",
     ],
 }

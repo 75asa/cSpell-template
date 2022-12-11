@@ -6,7 +6,7 @@
   "author": "75asa <75asa.me@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "spell-check": "cspell lint './**/*' -c ./.cspell/cspell.cjs --show-suggestions"
+    "spell-check": "cspell lint './**/*' -c ./.cspell/cspell.cjs --gitignore --show-suggestions"
   },
   "dependencies": {
     "cspell": "^6.17.0"
