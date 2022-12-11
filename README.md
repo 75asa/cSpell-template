@@ -7,3 +7,5 @@ a CI template for detecting typo.
 hoge
 
 # Settup
+
+# Fuga
