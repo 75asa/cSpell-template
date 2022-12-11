@@ -1,5 +1,5 @@
 {
-  "name": "cSpell-template",
+  "name": "@hoge/cSpell-template",
   "version": "1.0.0",
   "main": "index.js",
   "repository": "ssh://git@github.com/75asa/cSpell-template.git",
