@@ -31,4 +31,4 @@ jobs:
         run: |
           git diff remotes/origin/$GITHUB_BASE_REF --name-only \
             | yarn spell-check \
-            | reviewdog -level=warning -efm="%f:%l:%c - %m" -reporter=github-pr-review
+            | reviewdog -efm="%f:%l:%c - %m" -reporter=github-pr-review
